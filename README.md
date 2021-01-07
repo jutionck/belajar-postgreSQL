@@ -86,7 +86,4 @@ Untuk mengkoneksikan database postgreSQL dengan Intellij dapat kalian ikuti cara
    ![alt text](img/success-connect-1.png)
 5. Setelah berhasil terkoneksi maka akan muncul seperti ini:
    ![alt text](img/which-table.png)
-6. Untuk list table berada pada **public**   
-
-
-### Tipe Data
+6. Untuk list table berada pada **public**
